@@ -802,6 +802,7 @@ img {
 }
 
 .contact-form {
+  outline: 1px solid #000;
   padding: 30px;
 }
 .contact-form h2 {
