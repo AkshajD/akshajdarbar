@@ -123,6 +123,10 @@ body {
   font-size: 16px;
 }
 
+::-webkit-scrollbar {
+  width: 0px;
+}
+
 .font-alt {
   font-family: 'Rubik', sans-serif;
 }
