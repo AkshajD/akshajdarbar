@@ -158,7 +158,23 @@ img {
   background: #fff; 
 }
 
+.wrapper {
+  overflow: hidden;
+}
 
+.wrapper div {
+  padding: 10px;
+}
+
+.video .article{
+  float: left;
+}
+
+@media screen and (max-width: 1199px) {
+  .video .article {
+    float: none;
+  }
+}
 /*-----------------------------------------
 * 02. Section title
 -----------------------------------------*/
@@ -877,7 +893,7 @@ img {
 }
 
 /*-----------------------------------------
-* 16. Magin
+* 16. Margin
 -----------------------------------------*/
 .m-t-10px { margin-top: 10px; }
 .m-t-15px { margin-top: 15px; }
