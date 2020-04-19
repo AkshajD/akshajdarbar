@@ -135,6 +135,9 @@
 	        loop: true,
 	        margin: 0,
 	        nav:false,
+	        autoplay: true,
+	        autoplayTimeout:10000,
+	        autoplayHoverPause: true,
 	        items:1
 	    });
 	}
