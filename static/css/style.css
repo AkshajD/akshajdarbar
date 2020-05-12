@@ -255,7 +255,7 @@ img {
   border-color: #111;
 }
 
-@media (max-width: 440px) {
+@media (max-width: 991px) {
   .btn-second {
     margin-top: 5px;
   }
