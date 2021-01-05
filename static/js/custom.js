@@ -30,9 +30,9 @@
 	        speed: 150,
 	        loop:true,
 	        strings: [
-	          'an Innovator at The Knowledge Society',
+	          'a Research Scientist at Biotein',
 	          'a Machine Learning Developer',
-	          'a Gene Editing and Cancer Researcher',
+	          'a Cancer and Human Longevity Enthusiast',
 	          'an Entrepreuner',
 	          'a Life-Long Learner'
 	        ],
